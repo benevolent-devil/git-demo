@@ -12,8 +12,5 @@ covered by lab-based knowledge checks and facilitative discussions. Upon
 completion, students will have been exposed to all the intermediate and advanced
 competencies tested by the RHCSA and RHCE exams.
 
-### Surprise! Additional sh!tty addons
-Solaris system administrators who have completed the Red Hat Enterprise Linux for Solaris
-Administrators (RH290) course. This course is not recommended for students who have
-successfully completed the RHCSA Rapid Track Course (RH200). For those students, the
-Red Hat System Administration III (RH254) course is recommended.
+### Website Addition
+My first html page created from scratch.
